@@ -1,0 +1,26 @@
+const projects_list = [
+    {
+        title: "Lord Shadow (W.I.P.)",
+        description: "This script was inspired by the main character, Cid Kagenou, aka Lord Shadow, from The Eminence in Shadow. Known for his mysterious persona and his ability to manipulate both allies and enemies with his hidden strength, Lord Shadow operates behind the scenes, building a powerful secret organization.",
+        image: "https://cdn.discordapp.com/attachments/1363198646102917271/1367893231425294356/rjyWpry.png?ex=68163d58&is=6814ebd8&hm=0f25fa9213fe7347bad5a1622ee09382e13c83d5d00fae4c2a1c7b0fedd96b71&",
+        url: "https://github.com/ScripterTSBG/Shadow_Cid"
+    },
+    {
+        title: "Webhook Manager",
+        description: "Webhook Manager is a Roblox exploit tool that detects and blocks malicious webhooks—like Discord webhooks used to steal data. It lets you view, block, delete, or spoof webhook requests through a clean, draggable UI, all without needing any server-side setup.",
+        image: "https://github.com/ScripterTSBG/Webhook-Manager/blob/main/image.png?raw=true",
+        url: "none yet"
+    },
+    {
+        title: "RuthlessRemotes (Discontinued)",
+        description: "RuthlessRemotes is a stealthy Roblox LuaU library designed to enable exploiters to transmit encoded data between alts or other exploiters using animation IDs. It operates without relying on remotes or server-side communication, offering a pure and undetectable method of data transfer.",
+        image: "https://github.com/ScripterTSBG/RuthlessRemotes/blob/main/Thumbnail.png?raw=true",
+        url: "https://github.com/ScripterTSBG/RuthlessRemotes"
+    },
+    {
+        title: "Notification System",
+        description: "The NotificationSystem is a simple and lightweight notification manager for Roblox Exploits that allows you to display notifications on the player's screen. Notifications can be customized with a title, message, and duration, and they will automatically fade out after a set period of time.",
+        image: "https://cdn.discordapp.com/attachments/1363200458726052000/1363205833269444699/image.png?ex=681501dd&is=6813b05d&hm=4c7be105ae8a9a81e279f8faf617a5e33c919d1a17d865eff4298e258a05f7b0&",
+        url: "none yet"
+    },
+];
