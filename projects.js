@@ -8,7 +8,7 @@ const projects_list = [
     },
     {
         title: "Webhook Manager",
-        description: "Webhook Manager is a Roblox exploit tool that detects and blocks malicious webhooks—like Discord webhooks used to steal data. It lets you view, block, delete, or spoof webhook requests through a clean, draggable UI, all without needing any server-side setup.",
+        description: "Webhook Manager is a Roblox exploit tool that detects and blocks malicious webhooks—like Discord webhooks used to steal data. It lets you view, block, delete, or spoof webhook requests through a clean, draggable UI.",
         image: "https://github.com/ScripterTSBG/Webhook-Manager/blob/main/image.png?raw=true",
         url: "https://github.com/ScripterTSBG/Webhook-Manager",
         videos: []
@@ -31,7 +31,7 @@ const projects_list = [
         title: "AfterImage Library",
         description: "The Afterimage Library lets you generate real-time neon silhouettes of your character’s movement, perfect for speed effects, teleport visuals, dodges, or pure aesthetic flex. It selectively clones key body parts (head, limbs, torso) into fading ghost parts with customizable color, material, and lifetime — all rendered client-side for full control.",
         image: "https://cdn.discordapp.com/attachments/1363198646102917271/1368133102827995167/fTybaFm.png?ex=68171cbe&is=6815cb3e&hm=c87f1161d2309f2df47b9c578699415dbadeb56fdeac219c163b407473c8713d&",
-        url: "none yet",
+        url: "https://github.com/ScripterTSBG/Shadow_Cid/blob/main/AfterImage_Module.lua",
         videos: []
     },
 ];
