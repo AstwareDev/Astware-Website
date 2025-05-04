@@ -4,7 +4,7 @@ const projects_list = [
         description: "This script was inspired by the main character, Cid Kagenou, aka Lord Shadow, from The Eminence in Shadow. Known for his famous spell 'I AM ATOMIC', according to him atomic powers are able to destory galaxies.",
         image: "https://cdn.discordapp.com/attachments/1363198646102917271/1367893231425294356/rjyWpry.png?ex=68183798&is=6816e618&hm=ade188cce18b4082e3682f9621d382a5a56a13197248096548a15b2c708a1597&",
         url: "https://github.com/ScripterTSBG/Shadow_Cid",
-        videos: ["https://www.youtube.com/watch?v=VScpCK0-V6U"]
+        videos: ["https://www.youtube.com/watch?v=VScpCK0-V6U", "https://www.youtube.com/watch?v=CgECMQWKphM"]
     },
     {
         title: "Webhook Manager",
