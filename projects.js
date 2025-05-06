@@ -2,7 +2,7 @@ const projects_list = [
     {
         title: "Lord Shadow (W.I.P.)",
         description: "This script was inspired by the main character, Cid Kagenou aka Lord Shadow from The Eminence in Shadow. This script is W.I.P. so its not available for everyone yet.",
-        features: "*No Dash Cooldown\n*Anti Death Counter\n*More combo potential (No Body Velocity on moves)",
+        features: "*No Dash Cooldown\n*Anti Death Counter\n*Body Velocity Removal for Combo Extension\n *Helps maintain combo flow by removing Body Velocity during certain moves",
         image: "https://github.com/AstwareDev/Astware-Website/blob/main/Thumbnails/TRmTktz.png?raw=true",
         url: "none yet",
         videos: ["https://www.youtube.com/watch?v=VScpCK0-V6U", "https://www.youtube.com/watch?v=CgECMQWKphM"]
