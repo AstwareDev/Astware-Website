@@ -8,7 +8,7 @@ const projects_list = [
     },
     {
         title: "Webhook Manager",
-        description: "Webhook Manager is a Roblox exploit tool that detects and blocks malicious webhooks—like Discord webhooks used to steal data. It lets you view, block, delete, or spoof webhook requests through a clean, draggable UI.",
+        description: "Webhook Manager is a Roblox exploiting script that detects and blocks desired http requests like Discord webhooks used to steal personal and non-personal data through scripts. It lets you view, block, delete, or spoof http requests through a clean, draggable UI.",
         image: "https://github.com/AstwareDev/Webhook-Manager/blob/main/image.png?raw=true",
         url: "https://github.com/AstwareDev/Webhook-Manager",
         videos: []
