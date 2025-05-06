@@ -1,10 +1,10 @@
 const projects_list = [
     {
         title: "Lord Shadow (W.I.P.)",
-        description: "This script was inspired by the main character, Cid Kagenou, aka Lord Shadow, from The Eminence in Shadow.",
+        description: "This script was inspired by the main character, Cid Kagenou aka Lord Shadow from The Eminence in Shadow. This script is W.I.P. so its not available for everyone yet.",
         features: "No Dash Cooldown",
         image: "https://github.com/AstwareDev/Astware-Website/blob/main/Thumbnails/TRmTktz.png?raw=true",
-        url: "https://github.com/AstwareDev/Shadow_Cid",
+        url: "none yet",
         videos: ["https://www.youtube.com/watch?v=VScpCK0-V6U", "https://www.youtube.com/watch?v=CgECMQWKphM"]
     },
     {
