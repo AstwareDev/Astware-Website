@@ -1,9 +1,9 @@
 const projects_list = [
     {
         title: "Lord Shadow (W.I.P.)",
-        description: "This script was inspired by the main character, Cid Kagenou, aka Lord Shadow, from The Eminence in Shadow. Known for his famous spell 'I AM ATOMIC', according to him atomic powers are capable to destorying galaxies and he wants to achieve that power.",
+        description: "This script was inspired by the main character, Cid Kagenou, aka Lord Shadow, from The Eminence in Shadow.",
         features: "No Dash Cooldown",
-        image: "https://github.com/AstwareDev/Astware-Website/blob/main/Thumbnails/thumbnail1.png?raw=true",
+        image: "https://github.com/AstwareDev/Astware-Website/blob/main/Thumbnails/TRmTktz.png?raw=true",
         url: "https://github.com/AstwareDev/Shadow_Cid",
         videos: ["https://www.youtube.com/watch?v=VScpCK0-V6U", "https://www.youtube.com/watch?v=CgECMQWKphM"]
     },
