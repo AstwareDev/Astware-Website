@@ -3,20 +3,20 @@ const projects_list = [
         title: "Lord Shadow (W.I.P.)",
         description: "This script was inspired by the main character, Cid Kagenou, aka Lord Shadow, from The Eminence in Shadow. Known for his famous spell 'I AM ATOMIC', according to him atomic powers are capable to destorying galaxies and he wants to achieve that power.",
         image: "https://cdn.discordapp.com/attachments/1363198646102917271/1367893231425294356/rjyWpry.png?ex=68183798&is=6816e618&hm=ade188cce18b4082e3682f9621d382a5a56a13197248096548a15b2c708a1597&",
-        url: "https://github.com/ScripterTSBG/Shadow_Cid",
+        url: "https://github.com/AstwareDev/Shadow_Cid",
         videos: ["https://www.youtube.com/watch?v=VScpCK0-V6U", "https://www.youtube.com/watch?v=CgECMQWKphM"]
     },
     {
         title: "Webhook Manager",
         description: "Webhook Manager is a Roblox exploit tool that detects and blocks malicious webhooks—like Discord webhooks used to steal data. It lets you view, block, delete, or spoof webhook requests through a clean, draggable UI.",
         image: "https://github.com/AstwareDev/Webhook-Manager/blob/main/image.png?raw=true",
-        url: "https://github.com/ScripterTSBG/Webhook-Manager",
+        url: "https://github.com/AstwareDev/Webhook-Manager",
         videos: []
     },
     {
         title: "RuthlessRemotes (Discontinued)",
         description: "RuthlessRemotes is a stealthy Roblox LuaU library designed to enable exploiters to transmit encoded data between alts or other exploiters using animation IDs. It operates without relying on remotes or server-side communication, offering a pure and undetectable method of data transfer.",
-        image: "https://github.com/ScripterTSBG/RuthlessRemotes/blob/main/Thumbnail.png?raw=true",
+        image: "https://github.com/AstwareDev/RuthlessRemotes/blob/main/Thumbnail.png?raw=true",
         url: "https://github.com/AstwareDev/RuthlessRemotes",
         videos: []
     },
