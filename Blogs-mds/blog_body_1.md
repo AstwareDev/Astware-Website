@@ -1,6 +1,6 @@
-## Delayed Website & SentinelAPI Development
+## Delayed Website API & SentinelAPI Development
 
-We're currently encountering an unresolved issue with deploying the backend of both our **Astware Website** and **SentinelAPI** services.
+We're currently encountering an unresolved issue with deploying the backend of our **Astware Website** and the API of **SentinelAPI** service.
 
 Everything functions perfectly in our **local development environment**, but once deployed to platforms like **Vercel** or **Railway**, the backend APIs return a **404 Not Found** error. This happens even though the deployments are successful and no build errors are reported.
 
