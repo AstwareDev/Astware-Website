@@ -41,7 +41,7 @@ const projects_list = [
     },
     {
         title: "SentinelStore Library",
-        features: "* Secure access key-based data isolation\n* Real-time data storage and retrieval\n* Auto-deletes data older than 2 hours\n* Lightweight and easy to integrate in Lua\n* Supports only strings and numbers for reliability\n* Designed for Roblox exploit environments (e.g. request)",
+        features: "* Secure access key-based data isolation\n* Real-time data storage and retrieval\n* Auto-deletes data older than 2 hours\n* Lightweight and easy to integrate in LuaU\n* Supports only strings and numbers for reliability\n* Designed for Roblox exploit environments.",
         description: "SentinelStore is useful for syncing data between multiple exploit clients, storing temporary game states, sharing variables across sessions, or enabling communication between scripts without relying on in-game methods.",
         image: "https://raw.githubusercontent.com/AstwareDev/SentinelStore/refs/heads/main/image%20(5).png",
         url: "https://github.com/AstwareDev/SentinelStore",
