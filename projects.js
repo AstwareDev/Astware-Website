@@ -26,7 +26,7 @@ const projects_list = [
     {
         title: "Notification System",
         features: "",
-        description: "The NotificationSystem is a simple and lightweight notification manager for Roblox Exploits that allows you to display notifications on the player's screen. Notifications can be customized with a title, message, and duration, and they will automatically fade out after a set period of time.",
+        description: "The NotificationSystem is a simple notification manager for Roblox Exploits that allows you to send notifications. Notifications can be customized with a title, message, and duration.",
         image: "https://raw.githubusercontent.com/AstwareDev/Astware-Website/refs/heads/main/Thumbnails/thumbnail3.png",
         url: "https://github.com/AstwareDev/Notification-System",
         videos: []
@@ -34,7 +34,7 @@ const projects_list = [
     {
         title: "AfterImage Library",
         features: "",
-        description: "The Afterimage Library lets you generate real-time neon silhouettes of your character’s movement, perfect for speed effects, teleport visuals, dodges, or pure aesthetic flex. It selectively clones key body parts (head, limbs, torso) into fading ghost parts with customizable color, material, and lifetime — all rendered client-side for full control.",
+        description: "The Afterimage Library lets you generate real-time neon silhouettes of your character’s movement, perfect for speed effects, teleport visuals. It selectively clones key body parts (head, limbs, torso) into fading ghost parts with customizable color, material, and lifetime.",
         image: "https://raw.githubusercontent.com/AstwareDev/Astware-Website/refs/heads/main/Thumbnails/fTybaFm.png",
         url: "https://github.com/AstwareDev/Shadow_Cid/blob/main/AfterImage_Module.lua",
         videos: []
