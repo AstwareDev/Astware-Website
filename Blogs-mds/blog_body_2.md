@@ -39,9 +39,7 @@ local response = request({
 print("Server response:", response.Body)
 ```
 
----
-
-#### 🧠 Example (Get Latest)
+### Example (Get Latest)
 
 ```lua
 local response = request({
@@ -59,9 +57,7 @@ local result = HttpService:JSONDecode(response.Body)
 print("Latest data:", result.data)
 ```
 
----
-
-#### 📜 Example (Get All Data)
+### Example (Get All Data)
 
 ```lua
 local response = request({
@@ -81,9 +77,7 @@ for i, entry in ipairs(result.data) do
 end
 ```
 
----
-
-#### 🧹 Auto-Cleanup
+### Auto-Cleanup
 
 To keep the API lightweight, **data older than 2 hours is automatically deleted** on every send or get request.
 
