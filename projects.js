@@ -27,7 +27,7 @@ const projects_list = [
         title: "Notification System",
         features: "",
         description: "The NotificationSystem is a simple and lightweight notification manager for Roblox Exploits that allows you to display notifications on the player's screen. Notifications can be customized with a title, message, and duration, and they will automatically fade out after a set period of time.",
-        image: "https://github.com/AstwareDev/Astware-Website/blob/main/Thumbnails/thumbnail3.png?raw=true",
+        image: "https://raw.githubusercontent.com/AstwareDev/Astware-Website/refs/heads/main/Thumbnails/thumbnail3.png",
         url: "https://github.com/AstwareDev/Notification-System",
         videos: []
     },
