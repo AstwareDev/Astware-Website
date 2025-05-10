@@ -25,7 +25,7 @@ local dataToSend = {
 }
 
 local response = request({
-    Url = "https://sentinelstore.vercel.app/send",
+    Url = "https://astware-sentinelapi.vercel.app/send",
     Method = "POST",
     Headers = {
         ["Content-Type"] = "application/json"
@@ -43,7 +43,7 @@ print("Server response:", response.Body)
 
 ```lua
 local response = request({
-    Url = "https://sentinelstore.vercel.app/latest",
+    Url = "https://astware-sentinelapi.vercel.app/latest",
     Method = "POST",
     Headers = {
         ["Content-Type"] = "application/json"
@@ -61,7 +61,7 @@ print("Latest data:", result.data)
 
 ```lua
 local response = request({
-    Url = "https://sentinelstore.vercel.app/all",
+    Url = "https://astware-sentinelapi.vercel.app/all",
     Method = "POST",
     Headers = {
         ["Content-Type"] = "application/json"
@@ -79,7 +79,7 @@ end
 
 ### Auto-Cleanup
 
-To keep the API lightweight, **data older than 2 hours is automatically deleted** on every send or get request.
+- To keep the API lightweight, **data older than 2 hours is automatically deleted** on every send or get request.
 
 ### Flaws
 - You can't send Instances, CFrames and other roblox-only related stuff, you can only send strings, booleans and numbers.
