@@ -81,7 +81,5 @@ end
 
 To keep the API lightweight, **data older than 2 hours is automatically deleted** on every send or get request.
 
----
-
 ### Flaws
 - You can't send Instances, CFrames and other roblox-only related stuff, you can only send strings, booleans and numbers.
