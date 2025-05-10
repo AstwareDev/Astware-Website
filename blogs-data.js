@@ -1,5 +1,10 @@
 const blogData = [
     {
+        title: 'SentinelStore API Released',
+        content: "Click on the post for more info.",
+        body: "https://raw.githubusercontent.com/AstwareDev/Astware-Website/refs/heads/main/Blogs-mds/blog_body_2.md"
+    },
+    {
         title: 'Delayed website backend development',
         content: "Same reason as the previous blog-post, we hope we will find solution to this problem as soon as possible.",
         body: "https://raw.githubusercontent.com/AstwareDev/Astware-Website/refs/heads/main/Blogs-mds/blog_body_1.md"
