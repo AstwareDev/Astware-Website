@@ -1,10 +1,8 @@
-### 🟣 **SentinelStore API Released**
+## **SentinelStore API Released**
 
 We’re excited to officially launch the **SentinelStore API**, a lightweight and secure data management system built for real-time use with Roblox exploit clients. Designed with simplicity and performance in mind, SentinelStore allows individual exploiters to send, retrieve, and manage their session data using per-client **access keys**.
 
----
-
-#### 🔐 How It Works
+### How It Works
 
 Each exploiter uses a unique `accessKey` to encrypt and retrieve their own isolated data. The API supports the following endpoints:
 
@@ -14,9 +12,7 @@ Each exploiter uses a unique `accessKey` to encrypt and retrieve their own isola
 
 All endpoints expect a JSON payload with your `accessKey` and data (if sending).
 
----
-
-#### 📦 Example (Send Data)
+### Example (Send Data)
 
 ```lua
 local HttpService = game:GetService("HttpService")
