@@ -1,4 +1,4 @@
-## **SentinelStore API Released**
+## SentinelStore API Released
 
 We’re excited to officially launch the **SentinelStore API**, a lightweight and secure data management system built for real-time use with Roblox exploit clients. Designed with simplicity and performance in mind, SentinelStore allows individual exploiters to send, retrieve, and manage their session data using per-client **access keys**.
 
